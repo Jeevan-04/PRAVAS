@@ -7,13 +7,13 @@ axios.defaults.baseURL = 'http://localhost:8000/api';
 axios.defaults.withCredentials = true;
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBvXluY3Zc5OJTFQ_dgnj6_1xuKnLcvWQY",
-  authDomain: "pravas-49bde.firebaseapp.com",
-  projectId: "pravas-49bde",
-  storageBucket: "pravas-49bde.appspot.com",
-  messagingSenderId: "10799918834",
-  appId: "1:10799918834:web:39a6f2359f69fe12d0aa6b",
-  measurementId: "G-R1V2BBDC2H"
+  apiKey: "PASTE YOUR HERE",
+  authDomain: "PASTE YOUR HERE",
+  projectId: "PASTE YOUR HERE",
+  storageBucket: "PASTE YOUR HERE",
+  messagingSenderId: "PASTE YOUR HERE",
+  appId: "PASTE YOUR HERE",
+  measurementId: "PASTE YOUR HERE"
 };
 
 initializeApp(firebaseConfig);
