@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_KEY = 'IzaSyAG7C10W1bxaoggGhW2VJYRWeJ7gSbpIcQ'; 
+const API_KEY = 'YOUR API KEY'; 
 
 const resolvers = {
   Query: {
