@@ -1,0 +1,1 @@
+export const SECRET_KEY = "$jdfh#hg@mhdsbf23we$%sdcfvghuy%^&y7654(*3wesd"
